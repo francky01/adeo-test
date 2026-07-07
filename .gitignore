@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Test coverage reports
+coverage/
+
+# Local tooling
+.claude/
+
+# OS files
+.DS_Store
